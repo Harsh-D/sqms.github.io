@@ -95,10 +95,10 @@ body{
 }
 
 #brand-logo{
-  padding: 40px;
+  padding: auto;
   background-image: url('sqms_logo.jpg');
   background-repeat: no-repeat;
-  background-size: 80px 80px;
+  background-size: 50px 50px;
 }
 
 #home-padding{
