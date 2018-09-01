@@ -204,10 +204,10 @@ body{
    /*margin-left: 40%;*/
    font-size: 30px;
    font-weight: bold;
-   text-align: justify;
+   text-align: centre;
    background-color: #3e4444;
    text-decoration: none;
-   font-color:white;
+   color:white;
  }
 
 /*in home page*/
