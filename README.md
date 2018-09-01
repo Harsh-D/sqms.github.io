@@ -1,4 +1,4 @@
-**A Website for SQMS Company**
-This website is a static website made using **HTML, CSS and JS**
-Hope you like it, if you have any suggestions, please comment 
-:smile
+**A Website for SQMS Company**<br>
+This website is a static website made using **HTML, CSS and JS**<br>
+Hope you like it, if you have any suggestions, please comment <br>
+:smile:
