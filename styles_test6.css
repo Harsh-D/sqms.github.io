@@ -190,7 +190,7 @@ body{
 }
 
 .big-huge-container{
-  width: 80%;
+  width: auto;
   height: auto;
   background-color: #d5e1df;
   margin-left: 10%;
